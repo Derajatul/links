@@ -5,6 +5,7 @@ const portfolio = "https://derajatul.vercel.app/";
 // only github url is supported (change in next.config.js for more domain support)
 const avatar = "https://avatars.githubusercontent.com/u/101638355?v=4";
 
+const facebook = "https://www.facebook.com/profile.php?id=100077436619684";
 const linkedin = "https://www.linkedin.com/in/moh-tb-derajatul-ula-1aa110235/";
 const github = "https://github.com/arnvgh";
 const mail = "mailto:derajatul@gmail.com";
@@ -37,6 +38,7 @@ export const config = {
   avatar,
   portfolio,
   socials: {
+    facebook,
     linkedin,
     github,
     mail,
