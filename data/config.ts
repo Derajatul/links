@@ -1,5 +1,5 @@
 const name = "Dera";
-const belowLink = "deraaa.vercel.app";
+const belowLink = "deraaa-snowy.vercel.app";
 const bio = "Junior Frontend Developer";
 const portfolio = "https://derajatul.vercel.app/";
 // only github url is supported (change in next.config.js for more domain support)

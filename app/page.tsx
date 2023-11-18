@@ -57,7 +57,13 @@ export default function Home() {
                       </p>
                       <div className="mt-3 flex flex-col">
                         <p className="inline-block whitespace-pre-wrap text-center text-sm text-gray-500 dark:text-gray-400">
-                          {config.bio} at <Link href="https://www.doubler.id/">Doubler Studio</Link>
+                          {config.bio} at{" "}
+                          <Link
+                            href="https://www.doubler.id/"
+                            className="text-blue-400"
+                          >
+                            Doubler Studio
+                          </Link>
                         </p>
                       </div>
                     </div>
