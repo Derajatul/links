@@ -7,7 +7,7 @@ const avatar = "https://avatars.githubusercontent.com/u/101638355?v=4";
 
 const facebook = "https://www.facebook.com/profile.php?id=100077436619684";
 const linkedin = "https://www.linkedin.com/in/moh-tb-derajatul-ula-1aa110235/";
-const github = "https://github.com/arnvgh";
+const github = "https://github.com/Derajatul";
 const mail = "mailto:derajatul@gmail.com";
 const discord = "https://discord.com/user/880343865020796938";
 const discordTag = "@dera23";
