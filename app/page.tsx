@@ -59,7 +59,7 @@ export default function Home() {
                         <p className="inline-block whitespace-pre-wrap text-center text-sm text-gray-500 dark:text-gray-400">
                           {config.bio} at{" "}
                           <Link
-                            href="https://www.doubler.id/"
+                            href="https://www.doubler.id/ja"
                             className="text-blue-400"
                           >
                             Doubler Studio
